@@ -1,3 +1,12 @@
+# CRUD Svelte Js
+Sveltejs CRUD (Aplicacion Web Frontend)
+
+Tutoria Fazt Code
+
+https://youtu.be/7wo0zZur_Yk
+
+![](https://repository-images.githubusercontent.com/425605110/cf732d29-cc59-4fde-b3d7-37c16bc82c99)
+
 *Psst — looking for a more complete solution? Check out [SvelteKit](https://kit.svelte.dev), the official framework for building web applications of all sizes, with a beautiful development experience and flexible filesystem-based routing.*
 
 *Looking for a shareable component template instead? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)*
